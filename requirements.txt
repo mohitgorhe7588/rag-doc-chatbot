@@ -1,0 +1,10 @@
+streamlit
+langchain
+langchain-community
+langchain-core
+langchain-text-splitters
+langchain-groq
+groq
+fastembed
+faiss-cpu==1.13.2
+pypdf
